@@ -1,0 +1,26 @@
+# 编译输出
+build-*/
+*.o
+*.o.*
+moc_*.cpp
+moc_*.o
+ui_*.h
+.qmake.stash
+Makefile
+Image_Process/Image_Process
+RtpH264Server/RtpH264Server
+Image_Process/.qmake.stash
+RtpH264Server/.qmake.stash
+
+# IDE 配置
+.vscode/
+.idea/
+*.user
+*.pro.user
+*.pro.user.*
+.claude/
+
+# 系统文件
+*~
+.swp
+.directory
