@@ -23,4 +23,4 @@ Makefile
 
 # Runtime test artifacts
 *.log
-core
+/core
